@@ -4,3 +4,4 @@ langchain-groq
 python-dotenv
 langgraph
 ipykernel
+langchain-tavily
