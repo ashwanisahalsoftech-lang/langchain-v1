@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "git-filter-repo>=2.47.0",
     "ipykernel>=7.2.0",
     "langchain>=1.2.17",
     "langchain-community>=0.4.1",
